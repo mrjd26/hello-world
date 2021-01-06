@@ -1,2 +1,4 @@
 # hello-world
 The Github Hello World Tutorial
+
+Hello my name is Mike. I'm learning to code again. I've done some work with a variety of web development technologies like html, css, python, javascript, Django and different databases like MySQL.  I am practicing through CodeAcademy Javascript and learning about changes to the language made with ES6.  I remember a coworker talking about learning the ES6 changes in 2016. He was very proficient in JS and I was a total noob and had no idea what ES6 was.  Now I understand that it makes some changes to the JavaScript language.  I like coding in JavaScript and Python the most, I think.  But I don't really think that matters much anymore.  If I were alive 300 years ago I would probably have worked a sugar plantation or a flower mill.  If I was born in the year 3567 I would probably be YOLO space travelling on UBI while taking Soma pills.  But ALAS, it is 2021 and since I have no income or work. -> Learn to code.
